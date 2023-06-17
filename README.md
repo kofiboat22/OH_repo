@@ -1,3 +1,3 @@
 # Demo
 
-Some Rice 
+Some Rice!
